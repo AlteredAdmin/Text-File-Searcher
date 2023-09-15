@@ -33,3 +33,7 @@ Returns a list of filenames that contain the given string.
 ## Requirements
 
 This script requires Python 3.x and no additional libraries.
+
+## Support the Developer
+If you found this helpful, please consider:
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin)
